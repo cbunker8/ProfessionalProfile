@@ -1,0 +1,50 @@
+
+---
+title: "About Me"
+author: "Chris Bunker"
+output: 
+  html_document:
+    theme: flatly
+    toc: true
+    toc_float: true
+---
+
+# About Me
+
+![Profile Picture](CB.jpeg)
+
+Hello! My name is Chris Bunker. I am a graduate student at the University
+of Massachusetts Amherst in the DACSS program. I also work at a bank, where I 
+will soon begin a position as an Enterprise Content Management System Analyst
+for the bank at their headquarters.
+
+## Resume
+
+You can view or download my resume/CV by clicking the link below:
+
+[Download Resume](CB.pdf)
+
+---
+
+## My Work
+
+### Dashboard
+
+Check out my dashboard which showcases a snippet from a project I am currently
+working on.
+[View Dashboard](dashboard.html)
+
+---
+
+### Projects
+
+Attached is an introduction of the project I showcase in my dashboard.
+[View Projects](projects.html)
+
+---
+
+
+## Contact Me
+
+Feel free to reach out to me through cbunker@umass.edu
+

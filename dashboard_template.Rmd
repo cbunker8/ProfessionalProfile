@@ -1,0 +1,36 @@
+
+---
+title: "Dashboard Presentation"
+output: flexdashboard::flex_dashboard
+---
+
+Column {.sidebar}
+-------------------------------------
+
+### Covid-19 Death Distribution Dashboarrd
+
+This dashboard is a demonstration of my ability to use Github as well as show
+part of a project I have recently been working on for the class DACSS 604.
+
+Column
+-------------------------------------
+
+### Visualization
+
+```{r warning=FALSE}
+readRDS("histogram_plot.rds")
+```
+
+### Key Observations
+
+This chart utilized data from 
+[Our World in Data: COVID-19](https://ourworldindata.org/coronavirus)
+It shows the distribution of Deaths per million people for countries across
+the world. As we can see, most countries appear to have deaths under
+2,000 per million people. However, there is a significant right skew to the data
+with one value even greater than 6,000. Further analysis will reveal if economic
+status has a correlation to these outliers. Furthermore, I am skeptical of the 
+data centered near and at zero and wonder instead if this is a problem with
+reporting.
+
+

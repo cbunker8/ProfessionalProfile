@@ -1,0 +1,28 @@
+
+---
+title: "Projects"
+author: "Your Name"
+output: 
+  html_document:
+    theme: flatly
+    toc: true
+    toc_float: true
+---
+
+# My Projects
+
+## 1. [Project Title]
+
+[Project Description]: This project explores [brief project description]. It aims to [objective] and provides [key insights].
+
+- **GitHub Repository**: [Link to GitHub Repository](https://github.com/your-repository)
+- **Analysis Page**: [Standalone HTML Page](project_analysis.html)
+
+---
+
+## 2. [Another Project Title (Optional)]
+
+[Brief Description of Second Project, if applicable.]
+
+---
+
