@@ -12,6 +12,11 @@ Column {.sidebar}
 This dashboard is a demonstration of my ability to use Github as well as show
 part of a project I have recently been working on for the class DACSS 604.
 
+### Navigation
+
+[To Full Project](https://cbunker8.github.io/Covid-Analysis/)<br>
+[Back to Home](https://cbunker8.github.io/ProfessionalProfile/)
+
 Column
 -------------------------------------
 

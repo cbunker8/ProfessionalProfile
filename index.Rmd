@@ -39,7 +39,7 @@ working on.
 ### Projects
 
 Attached is an introduction of the project I showcase in my dashboard.
-[View Projects](projects.html)
+[View Projects](project.html)
 
 ---
 
